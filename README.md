@@ -15,7 +15,10 @@ YOLOv5 в отличие от других версий, реализована 
 ![demo](https://github.com/chelmed/Example_YOLOv5/blob/main/str_dir.png)<br/> 
 !в txt класс, позиция центра bb, высота и ширина bb в относительных координатах. 
 2) Создать файл формата yaml (как пример Create.yaml)
-
+3) Запуск обучения. 
+4) Результаты на тесте:<br/> 
+![demo](https://github.com/chelmed/Example_YOLOv5/blob/main/results.png)<br/> 
+Главное задачей была детекция шлемов mAP0.5 = 0.88, что неплохо для 10 эпох обучения. 
 Инференс на видео:<br/>
 Видео до:<br/>
 ![caption](https://github.com/chelmed/Example_YOLOv5/blob/main/video.gif)<br/> 
