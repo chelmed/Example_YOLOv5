@@ -12,7 +12,7 @@ YOLOv5 в отличие от других версий, реализована 
 Реализация: 
 
 1) Необходимо в директории проекта создать следующую струтуру:<br/> 
-![demo](https://github.com/chelmed/Museum_fund/blob/main/str_dir.png)<br/> 
+![demo](https://github.com/chelmed/Example_YOLOv5/blob/main/str_dir.png)<br/> 
 !в txt класс, позиция центра bb, высота и ширина bb в относительных координатах. 
 2) Создать файл формата yaml (как пример Create.yaml)
 
